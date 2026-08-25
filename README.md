@@ -25,9 +25,4 @@ When I'm not coding, I'm probably playing tennis, training or unnecessarily thin
 
 Currently playing with a **Head Instinct MP 2022** and still waiting for the ATP wildcard.
 
-## ⚡ Also into
-
-🐧 Linux · 🏋️ Gym · 🖥️ Hardware · 🔨 Automation
-
-
 [![Tokscale Stats](https://tokscale.ai/api/embed/nicolasmay/svg?period=month&tokens=compact&cost=compact)](https://tokscale.ai/u/nicolasmay?period=month)
