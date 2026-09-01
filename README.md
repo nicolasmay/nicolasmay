@@ -13,16 +13,11 @@ I actively experiment with:
 * 🤖 Coding agents
 * 🧠 Agentic workflows and orchestration
 * 🔌 MCP and tool-connected AI
-* 🧩 Skills and reusable agent capabilities
-* ⚙️ Development automation
-* 🏗️ AI-assisted architecture, debugging and refactoring
-
-I'm particularly interested in exploring **how far the software development lifecycle can be augmented or delegated to AI without sacrificing quality**.
 
 ## 🎾 Tennis
 
 When I'm not coding, I'm probably playing tennis, training or unnecessarily thinking about racquets, strings and tension.
 
-Currently playing with a **Head Instinct MP 2022** and still waiting for the ATP wildcard.
+Currently playing with a **Head Instinct MP 2022** stringed with a hybrid setup of  **Toroline o-toro tour + Restring Synced**
 
 [![Tokscale Stats](https://tokscale.ai/api/embed/nicolasmay/svg?period=month&tokens=compact&cost=compact)](https://tokscale.ai/u/nicolasmay?period=month)
