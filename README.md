@@ -18,6 +18,6 @@ I actively experiment with:
 
 When I'm not coding, I'm probably playing tennis, training or unnecessarily thinking about racquets, strings and tension.
 
-Currently playing with a **Head Instinct MP 2022** stringed with a hybrid setup of  **Toroline o-toro tour + Restring Synced**
+Currently playing with a **Head Instinct MP 2022** stringed with a hybrid setup of  **Toroline o-toro tour + Restring Sync**
 
 [![Tokscale Stats](https://tokscale.ai/api/embed/nicolasmay/svg?period=month&tokens=compact&cost=compact)](https://tokscale.ai/u/nicolasmay?period=month)
